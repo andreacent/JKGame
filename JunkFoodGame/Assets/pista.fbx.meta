@@ -1,0 +1,1670 @@
+fileFormatVersion: 2
+guid: 18f11256c8cbe6e49a59fdf5087064d4
+timeCreated: 1480647056
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: amarillas
+    100002: caramelo2
+    100004: caramelo3
+    100006: caramelo4
+    100008: caramelo5
+    100010: caramelo6
+    100012: chair1
+    100014: chair4
+    100016: cheeseburger:capa_abajo
+    100018: cheeseburger:capa_arriba
+    100020: cheeseburger:carne
+    100022: cheeseburger:hamburguesa
+    100024: cheeseburger:pan
+    100026: cheeseburger:queso
+    100028: cheeseburger:queso2
+    100030: cheeseburger:tomate1
+    100032: cheeseburger:tomate2
+    100034: cheeseburger:tomate3
+    100036: cheeseburger:tomate4
+    100038: cheeseburger:tomates
+    100040: cuchillo
+    100042: curva_burger
+    100044: curva_hielos
+    100046: dona1
+    100048: dona2
+    100050: dona3
+    100052: dona4
+    100054: dona5
+    100056: dona6
+    100058: donut:group1
+    100060: donut:lluvia1
+    100062: donut:lluvia10
+    100064: donut:lluvia11
+    100066: donut:lluvia12
+    100068: donut:lluvia13
+    100070: donut:lluvia14
+    100072: donut:lluvia15
+    100074: donut:lluvia16
+    100076: donut:lluvia17
+    100078: donut:lluvia18
+    100080: donut:lluvia19
+    100082: donut:lluvia2
+    100084: donut:lluvia20
+    100086: donut:lluvia22
+    100088: donut:lluvia23
+    100090: donut:lluvia25
+    100092: donut:lluvia26
+    100094: donut:lluvia27
+    100096: donut:lluvia28
+    100098: donut:lluvia29
+    100100: donut:lluvia30
+    100102: donut:lluvia31
+    100104: donut:lluvia32
+    100106: donut:lluvia33
+    100108: donut:lluvia34
+    100110: donut:lluvia35
+    100112: donut:lluvia36
+    100114: donut:lluvia37
+    100116: donut:lluvia38
+    100118: donut:lluvia39
+    100120: donut:lluvia4
+    100122: donut:lluvia40
+    100124: donut:lluvia41
+    100126: donut:lluvia42
+    100128: donut:lluvia43
+    100130: donut:lluvia44
+    100132: donut:lluvia45
+    100134: donut:lluvia46
+    100136: donut:lluvia47
+    100138: donut:lluvia48
+    100140: donut:lluvia5
+    100142: donut:lluvia6
+    100144: donut:lluvia7
+    100146: donut:lluvia8
+    100148: donut:lluvia9
+    100150: donut:pTorus1
+    100152: donut:pTorus1Particle
+    100154: escenario
+    100156: group1
+    100158: group1 1
+    100160: group1 2
+    100162: group1 3
+    100164: group4
+    100166: group6
+    100168: group7
+    100170: helados
+    100172: hielo1
+    100174: hielo1 1
+    100176: hielo2
+    100178: hielo3
+    100180: hielo4
+    100182: hielo4 1
+    100184: hielo5
+    100186: hielo6
+    100188: hielo7
+    100190: hotdog
+    100192: hotdog1
+    100194: hotdogs
+    100196: ice_cube:pCube1
+    100198: ice_cube:pCube1Particle
+    100200: lluvia1
+    100202: lluvia1 1
+    100204: lluvia1 2
+    100206: lluvia1 3
+    100208: lluvia10
+    100210: lluvia10 1
+    100212: lluvia10 2
+    100214: lluvia10 3
+    100216: lluvia10 4
+    100218: lluvia11
+    100220: lluvia11 1
+    100222: lluvia11 2
+    100224: lluvia11 3
+    100226: lluvia11 4
+    100228: lluvia12
+    100230: lluvia12 1
+    100232: lluvia12 2
+    100234: lluvia12 3
+    100236: lluvia12 4
+    100238: lluvia13
+    100240: lluvia13 1
+    100242: lluvia13 2
+    100244: lluvia13 3
+    100246: lluvia13 4
+    100248: lluvia14
+    100250: lluvia14 1
+    100252: lluvia14 2
+    100254: lluvia14 3
+    100256: lluvia14 4
+    100258: lluvia15
+    100260: lluvia15 1
+    100262: lluvia15 2
+    100264: lluvia15 3
+    100266: lluvia15 4
+    100268: lluvia16
+    100270: lluvia16 1
+    100272: lluvia16 2
+    100274: lluvia16 3
+    100276: lluvia16 4
+    100278: lluvia17
+    100280: lluvia17 1
+    100282: lluvia17 2
+    100284: lluvia17 3
+    100286: lluvia17 4
+    100288: lluvia18
+    100290: lluvia18 1
+    100292: lluvia18 2
+    100294: lluvia18 3
+    100296: lluvia18 4
+    100298: lluvia19
+    100300: lluvia19 1
+    100302: lluvia19 2
+    100304: lluvia19 3
+    100306: lluvia19 4
+    100308: lluvia2
+    100310: lluvia2 1
+    100312: lluvia2 2
+    100314: lluvia2 3
+    100316: lluvia2 4
+    100318: lluvia20
+    100320: lluvia20 1
+    100322: lluvia20 2
+    100324: lluvia20 3
+    100326: lluvia20 4
+    100328: lluvia22
+    100330: lluvia22 1
+    100332: lluvia22 2
+    100334: lluvia22 3
+    100336: lluvia22 4
+    100338: lluvia23
+    100340: lluvia23 1
+    100342: lluvia23 2
+    100344: lluvia23 3
+    100346: lluvia23 4
+    100348: lluvia25
+    100350: lluvia25 1
+    100352: lluvia25 2
+    100354: lluvia25 3
+    100356: lluvia25 4
+    100358: lluvia26
+    100360: lluvia26 1
+    100362: lluvia26 2
+    100364: lluvia26 3
+    100366: lluvia26 4
+    100368: lluvia27
+    100370: lluvia27 1
+    100372: lluvia27 2
+    100374: lluvia27 3
+    100376: lluvia27 4
+    100378: lluvia28
+    100380: lluvia28 1
+    100382: lluvia28 2
+    100384: lluvia28 3
+    100386: lluvia28 4
+    100388: lluvia29
+    100390: lluvia29 1
+    100392: lluvia29 2
+    100394: lluvia29 3
+    100396: lluvia29 4
+    100398: lluvia30
+    100400: lluvia30 1
+    100402: lluvia30 2
+    100404: lluvia30 3
+    100406: lluvia30 4
+    100408: lluvia31
+    100410: lluvia31 1
+    100412: lluvia31 2
+    100414: lluvia31 3
+    100416: lluvia31 4
+    100418: lluvia32
+    100420: lluvia32 1
+    100422: lluvia32 2
+    100424: lluvia32 3
+    100426: lluvia32 4
+    100428: lluvia33
+    100430: lluvia33 1
+    100432: lluvia33 2
+    100434: lluvia33 3
+    100436: lluvia33 4
+    100438: lluvia34
+    100440: lluvia34 1
+    100442: lluvia34 2
+    100444: lluvia34 3
+    100446: lluvia34 4
+    100448: lluvia35
+    100450: lluvia35 1
+    100452: lluvia35 2
+    100454: lluvia35 3
+    100456: lluvia35 4
+    100458: lluvia36
+    100460: lluvia36 1
+    100462: lluvia36 2
+    100464: lluvia36 3
+    100466: lluvia36 4
+    100468: lluvia37
+    100470: lluvia37 1
+    100472: lluvia37 2
+    100474: lluvia37 3
+    100476: lluvia37 4
+    100478: lluvia38
+    100480: lluvia38 1
+    100482: lluvia38 2
+    100484: lluvia38 3
+    100486: lluvia38 4
+    100488: lluvia39
+    100490: lluvia39 1
+    100492: lluvia39 2
+    100494: lluvia39 3
+    100496: lluvia39 4
+    100498: lluvia4
+    100500: lluvia4 1
+    100502: lluvia4 2
+    100504: lluvia4 3
+    100506: lluvia4 4
+    100508: lluvia40
+    100510: lluvia40 1
+    100512: lluvia40 2
+    100514: lluvia40 3
+    100516: lluvia40 4
+    100518: lluvia41
+    100520: lluvia41 1
+    100522: lluvia41 2
+    100524: lluvia41 3
+    100526: lluvia41 4
+    100528: lluvia42
+    100530: lluvia42 1
+    100532: lluvia42 2
+    100534: lluvia42 3
+    100536: lluvia42 4
+    100538: lluvia43
+    100540: lluvia43 1
+    100542: lluvia43 2
+    100544: lluvia43 3
+    100546: lluvia43 4
+    100548: lluvia44
+    100550: lluvia44 1
+    100552: lluvia44 2
+    100554: lluvia44 3
+    100556: lluvia44 4
+    100558: lluvia45
+    100560: lluvia45 1
+    100562: lluvia45 2
+    100564: lluvia45 3
+    100566: lluvia45 4
+    100568: lluvia46
+    100570: lluvia46 1
+    100572: lluvia46 2
+    100574: lluvia46 3
+    100576: lluvia46 4
+    100578: lluvia47
+    100580: lluvia47 1
+    100582: lluvia47 2
+    100584: lluvia47 3
+    100586: lluvia47 4
+    100588: lluvia48
+    100590: lluvia48 1
+    100592: lluvia48 2
+    100594: lluvia48 3
+    100596: lluvia48 4
+    100598: lluvia5
+    100600: lluvia5 1
+    100602: lluvia5 2
+    100604: lluvia5 3
+    100606: lluvia5 4
+    100608: lluvia6
+    100610: lluvia6 1
+    100612: lluvia6 2
+    100614: lluvia6 3
+    100616: lluvia6 4
+    100618: lluvia7
+    100620: lluvia7 1
+    100622: lluvia7 2
+    100624: lluvia7 3
+    100626: lluvia7 4
+    100628: lluvia8
+    100630: lluvia8 1
+    100632: lluvia8 2
+    100634: lluvia8 3
+    100636: lluvia8 4
+    100638: lluvia9
+    100640: lluvia9 1
+    100642: lluvia9 2
+    100644: lluvia9 3
+    100646: lluvia9 4
+    100648: lluvias
+    100650: lluvias 1
+    100652: lluvias 2
+    100654: lluvias 3
+    100656: lluvias 4
+    100658: lluvias 5
+    100660: marron
+    100662: mesa
+    100664: mesa_sillas
+    100666: obstaculo1
+    100668: paleta1
+    100670: paleta2
+    100672: paleta3
+    100674: palito_dona
+    100676: palito_dona1
+    100678: palito_dona2
+    100680: pCube1Particle
+    100682: pCube1Particle 1
+    100684: pCube1Particle 2
+    100686: pCube1Particle 3
+    100688: pCube1Particle 4
+    100690: pCube1Particle 5
+    100692: pCube1Particle 6
+    100694: pCube1Particle 7
+    100696: pCube1Particle 8
+    100698: pCylinder1
+    100700: pista
+    100702: //RootNode
+    100704: pitillo_tunel
+    100706: pizza
+    100708: plate:pCylinder1
+    100710: plato_pizza
+    100712: polySurface10
+    100714: polySurface11
+    100716: polySurface12
+    100718: polySurface13
+    100720: polySurface14
+    100722: polySurface15
+    100724: pTorus1
+    100726: pTorus1 1
+    100728: pTorus1 2
+    100730: pTorus1 3
+    100732: pTorus1 4
+    100734: pTorus1Particle
+    100736: pTorus1Particle 1
+    100738: pTorus1Particle 2
+    100740: pTorus1Particle 3
+    100742: pTorus1Particle 4
+    100744: queso
+    100746: recta_donas
+    100748: rojos
+    100750: sillas
+    100752: tenedor
+    100754: tenedor1
+    100756: tenedores_curva
+    100758: vaso_hielo
+    100760: vaso_tunel:pPipe1
+    100762: verde
+    400000: amarillas
+    400002: caramelo2
+    400004: caramelo3
+    400006: caramelo4
+    400008: caramelo5
+    400010: caramelo6
+    400012: chair1
+    400014: chair4
+    400016: cheeseburger:capa_abajo
+    400018: cheeseburger:capa_arriba
+    400020: cheeseburger:carne
+    400022: cheeseburger:hamburguesa
+    400024: cheeseburger:pan
+    400026: cheeseburger:queso
+    400028: cheeseburger:queso2
+    400030: cheeseburger:tomate1
+    400032: cheeseburger:tomate2
+    400034: cheeseburger:tomate3
+    400036: cheeseburger:tomate4
+    400038: cheeseburger:tomates
+    400040: cuchillo
+    400042: curva_burger
+    400044: curva_hielos
+    400046: dona1
+    400048: dona2
+    400050: dona3
+    400052: dona4
+    400054: dona5
+    400056: dona6
+    400058: donut:group1
+    400060: donut:lluvia1
+    400062: donut:lluvia10
+    400064: donut:lluvia11
+    400066: donut:lluvia12
+    400068: donut:lluvia13
+    400070: donut:lluvia14
+    400072: donut:lluvia15
+    400074: donut:lluvia16
+    400076: donut:lluvia17
+    400078: donut:lluvia18
+    400080: donut:lluvia19
+    400082: donut:lluvia2
+    400084: donut:lluvia20
+    400086: donut:lluvia22
+    400088: donut:lluvia23
+    400090: donut:lluvia25
+    400092: donut:lluvia26
+    400094: donut:lluvia27
+    400096: donut:lluvia28
+    400098: donut:lluvia29
+    400100: donut:lluvia30
+    400102: donut:lluvia31
+    400104: donut:lluvia32
+    400106: donut:lluvia33
+    400108: donut:lluvia34
+    400110: donut:lluvia35
+    400112: donut:lluvia36
+    400114: donut:lluvia37
+    400116: donut:lluvia38
+    400118: donut:lluvia39
+    400120: donut:lluvia4
+    400122: donut:lluvia40
+    400124: donut:lluvia41
+    400126: donut:lluvia42
+    400128: donut:lluvia43
+    400130: donut:lluvia44
+    400132: donut:lluvia45
+    400134: donut:lluvia46
+    400136: donut:lluvia47
+    400138: donut:lluvia48
+    400140: donut:lluvia5
+    400142: donut:lluvia6
+    400144: donut:lluvia7
+    400146: donut:lluvia8
+    400148: donut:lluvia9
+    400150: donut:pTorus1
+    400152: donut:pTorus1Particle
+    400154: escenario
+    400156: group1
+    400158: group1 1
+    400160: group1 2
+    400162: group1 3
+    400164: group4
+    400166: group6
+    400168: group7
+    400170: helados
+    400172: hielo1
+    400174: hielo1 1
+    400176: hielo2
+    400178: hielo3
+    400180: hielo4
+    400182: hielo4 1
+    400184: hielo5
+    400186: hielo6
+    400188: hielo7
+    400190: hotdog
+    400192: hotdog1
+    400194: hotdogs
+    400196: ice_cube:pCube1
+    400198: ice_cube:pCube1Particle
+    400200: lluvia1
+    400202: lluvia1 1
+    400204: lluvia1 2
+    400206: lluvia1 3
+    400208: lluvia10
+    400210: lluvia10 1
+    400212: lluvia10 2
+    400214: lluvia10 3
+    400216: lluvia10 4
+    400218: lluvia11
+    400220: lluvia11 1
+    400222: lluvia11 2
+    400224: lluvia11 3
+    400226: lluvia11 4
+    400228: lluvia12
+    400230: lluvia12 1
+    400232: lluvia12 2
+    400234: lluvia12 3
+    400236: lluvia12 4
+    400238: lluvia13
+    400240: lluvia13 1
+    400242: lluvia13 2
+    400244: lluvia13 3
+    400246: lluvia13 4
+    400248: lluvia14
+    400250: lluvia14 1
+    400252: lluvia14 2
+    400254: lluvia14 3
+    400256: lluvia14 4
+    400258: lluvia15
+    400260: lluvia15 1
+    400262: lluvia15 2
+    400264: lluvia15 3
+    400266: lluvia15 4
+    400268: lluvia16
+    400270: lluvia16 1
+    400272: lluvia16 2
+    400274: lluvia16 3
+    400276: lluvia16 4
+    400278: lluvia17
+    400280: lluvia17 1
+    400282: lluvia17 2
+    400284: lluvia17 3
+    400286: lluvia17 4
+    400288: lluvia18
+    400290: lluvia18 1
+    400292: lluvia18 2
+    400294: lluvia18 3
+    400296: lluvia18 4
+    400298: lluvia19
+    400300: lluvia19 1
+    400302: lluvia19 2
+    400304: lluvia19 3
+    400306: lluvia19 4
+    400308: lluvia2
+    400310: lluvia2 1
+    400312: lluvia2 2
+    400314: lluvia2 3
+    400316: lluvia2 4
+    400318: lluvia20
+    400320: lluvia20 1
+    400322: lluvia20 2
+    400324: lluvia20 3
+    400326: lluvia20 4
+    400328: lluvia22
+    400330: lluvia22 1
+    400332: lluvia22 2
+    400334: lluvia22 3
+    400336: lluvia22 4
+    400338: lluvia23
+    400340: lluvia23 1
+    400342: lluvia23 2
+    400344: lluvia23 3
+    400346: lluvia23 4
+    400348: lluvia25
+    400350: lluvia25 1
+    400352: lluvia25 2
+    400354: lluvia25 3
+    400356: lluvia25 4
+    400358: lluvia26
+    400360: lluvia26 1
+    400362: lluvia26 2
+    400364: lluvia26 3
+    400366: lluvia26 4
+    400368: lluvia27
+    400370: lluvia27 1
+    400372: lluvia27 2
+    400374: lluvia27 3
+    400376: lluvia27 4
+    400378: lluvia28
+    400380: lluvia28 1
+    400382: lluvia28 2
+    400384: lluvia28 3
+    400386: lluvia28 4
+    400388: lluvia29
+    400390: lluvia29 1
+    400392: lluvia29 2
+    400394: lluvia29 3
+    400396: lluvia29 4
+    400398: lluvia30
+    400400: lluvia30 1
+    400402: lluvia30 2
+    400404: lluvia30 3
+    400406: lluvia30 4
+    400408: lluvia31
+    400410: lluvia31 1
+    400412: lluvia31 2
+    400414: lluvia31 3
+    400416: lluvia31 4
+    400418: lluvia32
+    400420: lluvia32 1
+    400422: lluvia32 2
+    400424: lluvia32 3
+    400426: lluvia32 4
+    400428: lluvia33
+    400430: lluvia33 1
+    400432: lluvia33 2
+    400434: lluvia33 3
+    400436: lluvia33 4
+    400438: lluvia34
+    400440: lluvia34 1
+    400442: lluvia34 2
+    400444: lluvia34 3
+    400446: lluvia34 4
+    400448: lluvia35
+    400450: lluvia35 1
+    400452: lluvia35 2
+    400454: lluvia35 3
+    400456: lluvia35 4
+    400458: lluvia36
+    400460: lluvia36 1
+    400462: lluvia36 2
+    400464: lluvia36 3
+    400466: lluvia36 4
+    400468: lluvia37
+    400470: lluvia37 1
+    400472: lluvia37 2
+    400474: lluvia37 3
+    400476: lluvia37 4
+    400478: lluvia38
+    400480: lluvia38 1
+    400482: lluvia38 2
+    400484: lluvia38 3
+    400486: lluvia38 4
+    400488: lluvia39
+    400490: lluvia39 1
+    400492: lluvia39 2
+    400494: lluvia39 3
+    400496: lluvia39 4
+    400498: lluvia4
+    400500: lluvia4 1
+    400502: lluvia4 2
+    400504: lluvia4 3
+    400506: lluvia4 4
+    400508: lluvia40
+    400510: lluvia40 1
+    400512: lluvia40 2
+    400514: lluvia40 3
+    400516: lluvia40 4
+    400518: lluvia41
+    400520: lluvia41 1
+    400522: lluvia41 2
+    400524: lluvia41 3
+    400526: lluvia41 4
+    400528: lluvia42
+    400530: lluvia42 1
+    400532: lluvia42 2
+    400534: lluvia42 3
+    400536: lluvia42 4
+    400538: lluvia43
+    400540: lluvia43 1
+    400542: lluvia43 2
+    400544: lluvia43 3
+    400546: lluvia43 4
+    400548: lluvia44
+    400550: lluvia44 1
+    400552: lluvia44 2
+    400554: lluvia44 3
+    400556: lluvia44 4
+    400558: lluvia45
+    400560: lluvia45 1
+    400562: lluvia45 2
+    400564: lluvia45 3
+    400566: lluvia45 4
+    400568: lluvia46
+    400570: lluvia46 1
+    400572: lluvia46 2
+    400574: lluvia46 3
+    400576: lluvia46 4
+    400578: lluvia47
+    400580: lluvia47 1
+    400582: lluvia47 2
+    400584: lluvia47 3
+    400586: lluvia47 4
+    400588: lluvia48
+    400590: lluvia48 1
+    400592: lluvia48 2
+    400594: lluvia48 3
+    400596: lluvia48 4
+    400598: lluvia5
+    400600: lluvia5 1
+    400602: lluvia5 2
+    400604: lluvia5 3
+    400606: lluvia5 4
+    400608: lluvia6
+    400610: lluvia6 1
+    400612: lluvia6 2
+    400614: lluvia6 3
+    400616: lluvia6 4
+    400618: lluvia7
+    400620: lluvia7 1
+    400622: lluvia7 2
+    400624: lluvia7 3
+    400626: lluvia7 4
+    400628: lluvia8
+    400630: lluvia8 1
+    400632: lluvia8 2
+    400634: lluvia8 3
+    400636: lluvia8 4
+    400638: lluvia9
+    400640: lluvia9 1
+    400642: lluvia9 2
+    400644: lluvia9 3
+    400646: lluvia9 4
+    400648: lluvias
+    400650: lluvias 1
+    400652: lluvias 2
+    400654: lluvias 3
+    400656: lluvias 4
+    400658: lluvias 5
+    400660: marron
+    400662: mesa
+    400664: mesa_sillas
+    400666: obstaculo1
+    400668: paleta1
+    400670: paleta2
+    400672: paleta3
+    400674: palito_dona
+    400676: palito_dona1
+    400678: palito_dona2
+    400680: pCube1Particle
+    400682: pCube1Particle 1
+    400684: pCube1Particle 2
+    400686: pCube1Particle 3
+    400688: pCube1Particle 4
+    400690: pCube1Particle 5
+    400692: pCube1Particle 6
+    400694: pCube1Particle 7
+    400696: pCube1Particle 8
+    400698: pCylinder1
+    400700: pista
+    400702: //RootNode
+    400704: pitillo_tunel
+    400706: pizza
+    400708: plate:pCylinder1
+    400710: plato_pizza
+    400712: polySurface10
+    400714: polySurface11
+    400716: polySurface12
+    400718: polySurface13
+    400720: polySurface14
+    400722: polySurface15
+    400724: pTorus1
+    400726: pTorus1 1
+    400728: pTorus1 2
+    400730: pTorus1 3
+    400732: pTorus1 4
+    400734: pTorus1Particle
+    400736: pTorus1Particle 1
+    400738: pTorus1Particle 2
+    400740: pTorus1Particle 3
+    400742: pTorus1Particle 4
+    400744: queso
+    400746: recta_donas
+    400748: rojos
+    400750: sillas
+    400752: tenedor
+    400754: tenedor1
+    400756: tenedores_curva
+    400758: vaso_hielo
+    400760: vaso_tunel:pPipe1
+    400762: verde
+    2300000: caramelo2
+    2300002: caramelo3
+    2300004: caramelo4
+    2300006: caramelo5
+    2300008: caramelo6
+    2300010: chair1
+    2300012: chair4
+    2300014: cheeseburger:capa_abajo
+    2300016: cheeseburger:capa_arriba
+    2300018: cheeseburger:carne
+    2300020: cheeseburger:queso
+    2300022: cheeseburger:queso2
+    2300024: cheeseburger:tomate1
+    2300026: cheeseburger:tomate2
+    2300028: cheeseburger:tomate3
+    2300030: cheeseburger:tomate4
+    2300032: cuchillo
+    2300034: donut:lluvia1
+    2300036: donut:lluvia10
+    2300038: donut:lluvia11
+    2300040: donut:lluvia12
+    2300042: donut:lluvia13
+    2300044: donut:lluvia14
+    2300046: donut:lluvia15
+    2300048: donut:lluvia16
+    2300050: donut:lluvia17
+    2300052: donut:lluvia18
+    2300054: donut:lluvia19
+    2300056: donut:lluvia2
+    2300058: donut:lluvia20
+    2300060: donut:lluvia22
+    2300062: donut:lluvia23
+    2300064: donut:lluvia25
+    2300066: donut:lluvia26
+    2300068: donut:lluvia27
+    2300070: donut:lluvia28
+    2300072: donut:lluvia29
+    2300074: donut:lluvia30
+    2300076: donut:lluvia31
+    2300078: donut:lluvia32
+    2300080: donut:lluvia33
+    2300082: donut:lluvia34
+    2300084: donut:lluvia35
+    2300086: donut:lluvia36
+    2300088: donut:lluvia37
+    2300090: donut:lluvia38
+    2300092: donut:lluvia39
+    2300094: donut:lluvia4
+    2300096: donut:lluvia40
+    2300098: donut:lluvia41
+    2300100: donut:lluvia42
+    2300102: donut:lluvia43
+    2300104: donut:lluvia44
+    2300106: donut:lluvia45
+    2300108: donut:lluvia46
+    2300110: donut:lluvia47
+    2300112: donut:lluvia48
+    2300114: donut:lluvia5
+    2300116: donut:lluvia6
+    2300118: donut:lluvia7
+    2300120: donut:lluvia8
+    2300122: donut:lluvia9
+    2300124: donut:pTorus1
+    2300126: hielo1
+    2300128: hielo1 1
+    2300130: hielo2
+    2300132: hielo3
+    2300134: hielo4
+    2300136: hielo4 1
+    2300138: hielo5
+    2300140: hielo6
+    2300142: hielo7
+    2300144: hotdog1
+    2300146: ice_cube:pCube1
+    2300148: lluvia1
+    2300150: lluvia1 1
+    2300152: lluvia1 2
+    2300154: lluvia1 3
+    2300156: lluvia10
+    2300158: lluvia10 1
+    2300160: lluvia10 2
+    2300162: lluvia10 3
+    2300164: lluvia11
+    2300166: lluvia11 1
+    2300168: lluvia11 2
+    2300170: lluvia11 3
+    2300172: lluvia12
+    2300174: lluvia12 1
+    2300176: lluvia12 2
+    2300178: lluvia12 3
+    2300180: lluvia13
+    2300182: lluvia13 1
+    2300184: lluvia13 2
+    2300186: lluvia13 3
+    2300188: lluvia14
+    2300190: lluvia14 1
+    2300192: lluvia14 2
+    2300194: lluvia14 3
+    2300196: lluvia15
+    2300198: lluvia15 1
+    2300200: lluvia15 2
+    2300202: lluvia15 3
+    2300204: lluvia16
+    2300206: lluvia16 1
+    2300208: lluvia16 2
+    2300210: lluvia16 3
+    2300212: lluvia17
+    2300214: lluvia17 1
+    2300216: lluvia17 2
+    2300218: lluvia17 3
+    2300220: lluvia18
+    2300222: lluvia18 1
+    2300224: lluvia18 2
+    2300226: lluvia18 3
+    2300228: lluvia19
+    2300230: lluvia19 1
+    2300232: lluvia19 2
+    2300234: lluvia19 3
+    2300236: lluvia2
+    2300238: lluvia2 1
+    2300240: lluvia2 2
+    2300242: lluvia2 3
+    2300244: lluvia20
+    2300246: lluvia20 1
+    2300248: lluvia20 2
+    2300250: lluvia20 3
+    2300252: lluvia22
+    2300254: lluvia22 1
+    2300256: lluvia22 2
+    2300258: lluvia22 3
+    2300260: lluvia23
+    2300262: lluvia23 1
+    2300264: lluvia23 2
+    2300266: lluvia23 3
+    2300268: lluvia25
+    2300270: lluvia25 1
+    2300272: lluvia25 2
+    2300274: lluvia25 3
+    2300276: lluvia26
+    2300278: lluvia26 1
+    2300280: lluvia26 2
+    2300282: lluvia26 3
+    2300284: lluvia27
+    2300286: lluvia27 1
+    2300288: lluvia27 2
+    2300290: lluvia27 3
+    2300292: lluvia28
+    2300294: lluvia28 1
+    2300296: lluvia28 2
+    2300298: lluvia28 3
+    2300300: lluvia29
+    2300302: lluvia29 1
+    2300304: lluvia29 2
+    2300306: lluvia29 3
+    2300308: lluvia30
+    2300310: lluvia30 1
+    2300312: lluvia30 2
+    2300314: lluvia30 3
+    2300316: lluvia31
+    2300318: lluvia31 1
+    2300320: lluvia31 2
+    2300322: lluvia31 3
+    2300324: lluvia32
+    2300326: lluvia32 1
+    2300328: lluvia32 2
+    2300330: lluvia32 3
+    2300332: lluvia33
+    2300334: lluvia33 1
+    2300336: lluvia33 2
+    2300338: lluvia33 3
+    2300340: lluvia34
+    2300342: lluvia34 1
+    2300344: lluvia34 2
+    2300346: lluvia34 3
+    2300348: lluvia35
+    2300350: lluvia35 1
+    2300352: lluvia35 2
+    2300354: lluvia35 3
+    2300356: lluvia36
+    2300358: lluvia36 1
+    2300360: lluvia36 2
+    2300362: lluvia36 3
+    2300364: lluvia37
+    2300366: lluvia37 1
+    2300368: lluvia37 2
+    2300370: lluvia37 3
+    2300372: lluvia38
+    2300374: lluvia38 1
+    2300376: lluvia38 2
+    2300378: lluvia38 3
+    2300380: lluvia39
+    2300382: lluvia39 1
+    2300384: lluvia39 2
+    2300386: lluvia39 3
+    2300388: lluvia4
+    2300390: lluvia4 1
+    2300392: lluvia4 2
+    2300394: lluvia4 3
+    2300396: lluvia40
+    2300398: lluvia40 1
+    2300400: lluvia40 2
+    2300402: lluvia40 3
+    2300404: lluvia41
+    2300406: lluvia41 1
+    2300408: lluvia41 2
+    2300410: lluvia41 3
+    2300412: lluvia42
+    2300414: lluvia42 1
+    2300416: lluvia42 2
+    2300418: lluvia42 3
+    2300420: lluvia43
+    2300422: lluvia43 1
+    2300424: lluvia43 2
+    2300426: lluvia43 3
+    2300428: lluvia44
+    2300430: lluvia44 1
+    2300432: lluvia44 2
+    2300434: lluvia44 3
+    2300436: lluvia45
+    2300438: lluvia45 1
+    2300440: lluvia45 2
+    2300442: lluvia45 3
+    2300444: lluvia46
+    2300446: lluvia46 1
+    2300448: lluvia46 2
+    2300450: lluvia46 3
+    2300452: lluvia47
+    2300454: lluvia47 1
+    2300456: lluvia47 2
+    2300458: lluvia47 3
+    2300460: lluvia48
+    2300462: lluvia48 1
+    2300464: lluvia48 2
+    2300466: lluvia48 3
+    2300468: lluvia5
+    2300470: lluvia5 1
+    2300472: lluvia5 2
+    2300474: lluvia5 3
+    2300476: lluvia6
+    2300478: lluvia6 1
+    2300480: lluvia6 2
+    2300482: lluvia6 3
+    2300484: lluvia7
+    2300486: lluvia7 1
+    2300488: lluvia7 2
+    2300490: lluvia7 3
+    2300492: lluvia8
+    2300494: lluvia8 1
+    2300496: lluvia8 2
+    2300498: lluvia8 3
+    2300500: lluvia9
+    2300502: lluvia9 1
+    2300504: lluvia9 2
+    2300506: lluvia9 3
+    2300508: mesa
+    2300510: paleta1
+    2300512: paleta2
+    2300514: paleta3
+    2300516: palito_dona
+    2300518: palito_dona1
+    2300520: palito_dona2
+    2300522: pCylinder1
+    2300524: pitillo_tunel
+    2300526: pizza
+    2300528: plate:pCylinder1
+    2300530: polySurface10
+    2300532: polySurface11
+    2300534: polySurface12
+    2300536: polySurface13
+    2300538: polySurface14
+    2300540: polySurface15
+    2300542: pTorus1
+    2300544: pTorus1 1
+    2300546: pTorus1 2
+    2300548: pTorus1 3
+    2300550: tenedor
+    2300552: tenedor1
+    2300554: vaso_tunel:pPipe1
+    3300000: caramelo2
+    3300002: caramelo3
+    3300004: caramelo4
+    3300006: caramelo5
+    3300008: caramelo6
+    3300010: chair1
+    3300012: chair4
+    3300014: cheeseburger:capa_abajo
+    3300016: cheeseburger:capa_arriba
+    3300018: cheeseburger:carne
+    3300020: cheeseburger:queso
+    3300022: cheeseburger:queso2
+    3300024: cheeseburger:tomate1
+    3300026: cheeseburger:tomate2
+    3300028: cheeseburger:tomate3
+    3300030: cheeseburger:tomate4
+    3300032: cuchillo
+    3300034: donut:lluvia1
+    3300036: donut:lluvia10
+    3300038: donut:lluvia11
+    3300040: donut:lluvia12
+    3300042: donut:lluvia13
+    3300044: donut:lluvia14
+    3300046: donut:lluvia15
+    3300048: donut:lluvia16
+    3300050: donut:lluvia17
+    3300052: donut:lluvia18
+    3300054: donut:lluvia19
+    3300056: donut:lluvia2
+    3300058: donut:lluvia20
+    3300060: donut:lluvia22
+    3300062: donut:lluvia23
+    3300064: donut:lluvia25
+    3300066: donut:lluvia26
+    3300068: donut:lluvia27
+    3300070: donut:lluvia28
+    3300072: donut:lluvia29
+    3300074: donut:lluvia30
+    3300076: donut:lluvia31
+    3300078: donut:lluvia32
+    3300080: donut:lluvia33
+    3300082: donut:lluvia34
+    3300084: donut:lluvia35
+    3300086: donut:lluvia36
+    3300088: donut:lluvia37
+    3300090: donut:lluvia38
+    3300092: donut:lluvia39
+    3300094: donut:lluvia4
+    3300096: donut:lluvia40
+    3300098: donut:lluvia41
+    3300100: donut:lluvia42
+    3300102: donut:lluvia43
+    3300104: donut:lluvia44
+    3300106: donut:lluvia45
+    3300108: donut:lluvia46
+    3300110: donut:lluvia47
+    3300112: donut:lluvia48
+    3300114: donut:lluvia5
+    3300116: donut:lluvia6
+    3300118: donut:lluvia7
+    3300120: donut:lluvia8
+    3300122: donut:lluvia9
+    3300124: donut:pTorus1
+    3300126: hielo1
+    3300128: hielo1 1
+    3300130: hielo2
+    3300132: hielo3
+    3300134: hielo4
+    3300136: hielo4 1
+    3300138: hielo5
+    3300140: hielo6
+    3300142: hielo7
+    3300144: hotdog1
+    3300146: ice_cube:pCube1
+    3300148: lluvia1
+    3300150: lluvia1 1
+    3300152: lluvia1 2
+    3300154: lluvia1 3
+    3300156: lluvia10
+    3300158: lluvia10 1
+    3300160: lluvia10 2
+    3300162: lluvia10 3
+    3300164: lluvia11
+    3300166: lluvia11 1
+    3300168: lluvia11 2
+    3300170: lluvia11 3
+    3300172: lluvia12
+    3300174: lluvia12 1
+    3300176: lluvia12 2
+    3300178: lluvia12 3
+    3300180: lluvia13
+    3300182: lluvia13 1
+    3300184: lluvia13 2
+    3300186: lluvia13 3
+    3300188: lluvia14
+    3300190: lluvia14 1
+    3300192: lluvia14 2
+    3300194: lluvia14 3
+    3300196: lluvia15
+    3300198: lluvia15 1
+    3300200: lluvia15 2
+    3300202: lluvia15 3
+    3300204: lluvia16
+    3300206: lluvia16 1
+    3300208: lluvia16 2
+    3300210: lluvia16 3
+    3300212: lluvia17
+    3300214: lluvia17 1
+    3300216: lluvia17 2
+    3300218: lluvia17 3
+    3300220: lluvia18
+    3300222: lluvia18 1
+    3300224: lluvia18 2
+    3300226: lluvia18 3
+    3300228: lluvia19
+    3300230: lluvia19 1
+    3300232: lluvia19 2
+    3300234: lluvia19 3
+    3300236: lluvia2
+    3300238: lluvia2 1
+    3300240: lluvia2 2
+    3300242: lluvia2 3
+    3300244: lluvia20
+    3300246: lluvia20 1
+    3300248: lluvia20 2
+    3300250: lluvia20 3
+    3300252: lluvia22
+    3300254: lluvia22 1
+    3300256: lluvia22 2
+    3300258: lluvia22 3
+    3300260: lluvia23
+    3300262: lluvia23 1
+    3300264: lluvia23 2
+    3300266: lluvia23 3
+    3300268: lluvia25
+    3300270: lluvia25 1
+    3300272: lluvia25 2
+    3300274: lluvia25 3
+    3300276: lluvia26
+    3300278: lluvia26 1
+    3300280: lluvia26 2
+    3300282: lluvia26 3
+    3300284: lluvia27
+    3300286: lluvia27 1
+    3300288: lluvia27 2
+    3300290: lluvia27 3
+    3300292: lluvia28
+    3300294: lluvia28 1
+    3300296: lluvia28 2
+    3300298: lluvia28 3
+    3300300: lluvia29
+    3300302: lluvia29 1
+    3300304: lluvia29 2
+    3300306: lluvia29 3
+    3300308: lluvia30
+    3300310: lluvia30 1
+    3300312: lluvia30 2
+    3300314: lluvia30 3
+    3300316: lluvia31
+    3300318: lluvia31 1
+    3300320: lluvia31 2
+    3300322: lluvia31 3
+    3300324: lluvia32
+    3300326: lluvia32 1
+    3300328: lluvia32 2
+    3300330: lluvia32 3
+    3300332: lluvia33
+    3300334: lluvia33 1
+    3300336: lluvia33 2
+    3300338: lluvia33 3
+    3300340: lluvia34
+    3300342: lluvia34 1
+    3300344: lluvia34 2
+    3300346: lluvia34 3
+    3300348: lluvia35
+    3300350: lluvia35 1
+    3300352: lluvia35 2
+    3300354: lluvia35 3
+    3300356: lluvia36
+    3300358: lluvia36 1
+    3300360: lluvia36 2
+    3300362: lluvia36 3
+    3300364: lluvia37
+    3300366: lluvia37 1
+    3300368: lluvia37 2
+    3300370: lluvia37 3
+    3300372: lluvia38
+    3300374: lluvia38 1
+    3300376: lluvia38 2
+    3300378: lluvia38 3
+    3300380: lluvia39
+    3300382: lluvia39 1
+    3300384: lluvia39 2
+    3300386: lluvia39 3
+    3300388: lluvia4
+    3300390: lluvia4 1
+    3300392: lluvia4 2
+    3300394: lluvia4 3
+    3300396: lluvia40
+    3300398: lluvia40 1
+    3300400: lluvia40 2
+    3300402: lluvia40 3
+    3300404: lluvia41
+    3300406: lluvia41 1
+    3300408: lluvia41 2
+    3300410: lluvia41 3
+    3300412: lluvia42
+    3300414: lluvia42 1
+    3300416: lluvia42 2
+    3300418: lluvia42 3
+    3300420: lluvia43
+    3300422: lluvia43 1
+    3300424: lluvia43 2
+    3300426: lluvia43 3
+    3300428: lluvia44
+    3300430: lluvia44 1
+    3300432: lluvia44 2
+    3300434: lluvia44 3
+    3300436: lluvia45
+    3300438: lluvia45 1
+    3300440: lluvia45 2
+    3300442: lluvia45 3
+    3300444: lluvia46
+    3300446: lluvia46 1
+    3300448: lluvia46 2
+    3300450: lluvia46 3
+    3300452: lluvia47
+    3300454: lluvia47 1
+    3300456: lluvia47 2
+    3300458: lluvia47 3
+    3300460: lluvia48
+    3300462: lluvia48 1
+    3300464: lluvia48 2
+    3300466: lluvia48 3
+    3300468: lluvia5
+    3300470: lluvia5 1
+    3300472: lluvia5 2
+    3300474: lluvia5 3
+    3300476: lluvia6
+    3300478: lluvia6 1
+    3300480: lluvia6 2
+    3300482: lluvia6 3
+    3300484: lluvia7
+    3300486: lluvia7 1
+    3300488: lluvia7 2
+    3300490: lluvia7 3
+    3300492: lluvia8
+    3300494: lluvia8 1
+    3300496: lluvia8 2
+    3300498: lluvia8 3
+    3300500: lluvia9
+    3300502: lluvia9 1
+    3300504: lluvia9 2
+    3300506: lluvia9 3
+    3300508: mesa
+    3300510: paleta1
+    3300512: paleta2
+    3300514: paleta3
+    3300516: palito_dona
+    3300518: palito_dona1
+    3300520: palito_dona2
+    3300522: pCylinder1
+    3300524: pitillo_tunel
+    3300526: pizza
+    3300528: plate:pCylinder1
+    3300530: polySurface10
+    3300532: polySurface11
+    3300534: polySurface12
+    3300536: polySurface13
+    3300538: polySurface14
+    3300540: polySurface15
+    3300542: pTorus1
+    3300544: pTorus1 1
+    3300546: pTorus1 2
+    3300548: pTorus1 3
+    3300550: tenedor
+    3300552: tenedor1
+    3300554: vaso_tunel:pPipe1
+    4300000: mesa
+    4300002: chair1
+    4300004: chair4
+    4300006: pTorus1
+    4300008: lluvia14
+    4300010: lluvia2
+    4300012: lluvia27
+    4300014: lluvia33
+    4300016: lluvia17
+    4300018: lluvia43
+    4300020: lluvia46
+    4300022: lluvia38
+    4300024: lluvia37
+    4300026: lluvia44
+    4300028: lluvia36
+    4300030: lluvia30
+    4300032: lluvia7
+    4300034: lluvia10
+    4300036: lluvia13
+    4300038: lluvia18
+    4300040: lluvia22
+    4300042: lluvia4
+    4300044: lluvia9
+    4300046: lluvia19
+    4300048: lluvia26
+    4300050: lluvia32
+    4300052: lluvia42
+    4300054: lluvia47
+    4300056: lluvia40
+    4300058: lluvia23
+    4300060: lluvia35
+    4300062: lluvia48
+    4300064: lluvia45
+    4300066: lluvia41
+    4300068: lluvia39
+    4300070: lluvia34
+    4300072: lluvia31
+    4300074: lluvia29
+    4300076: lluvia28
+    4300078: lluvia25
+    4300080: lluvia20
+    4300082: lluvia16
+    4300084: lluvia15
+    4300086: lluvia12
+    4300088: lluvia11
+    4300090: lluvia8
+    4300092: lluvia6
+    4300094: lluvia5
+    4300096: lluvia1
+    4300098: pTorus1
+    4300100: lluvia1
+    4300102: lluvia2
+    4300104: lluvia4
+    4300106: lluvia5
+    4300108: lluvia6
+    4300110: lluvia7
+    4300112: lluvia8
+    4300114: lluvia9
+    4300116: lluvia10
+    4300118: lluvia11
+    4300120: lluvia12
+    4300122: lluvia13
+    4300124: lluvia14
+    4300126: lluvia15
+    4300128: lluvia16
+    4300130: lluvia17
+    4300132: lluvia18
+    4300134: lluvia19
+    4300136: lluvia20
+    4300138: lluvia22
+    4300140: lluvia23
+    4300142: lluvia25
+    4300144: lluvia26
+    4300146: lluvia27
+    4300148: lluvia28
+    4300150: lluvia29
+    4300152: lluvia30
+    4300154: lluvia31
+    4300156: lluvia32
+    4300158: lluvia33
+    4300160: lluvia34
+    4300162: lluvia35
+    4300164: lluvia39
+    4300166: lluvia36
+    4300168: lluvia37
+    4300170: lluvia38
+    4300172: lluvia40
+    4300174: lluvia41
+    4300176: lluvia42
+    4300178: lluvia43
+    4300180: lluvia44
+    4300182: lluvia45
+    4300184: lluvia46
+    4300186: lluvia47
+    4300188: lluvia48
+    4300190: pTorus1
+    4300192: lluvia1
+    4300194: lluvia2
+    4300196: lluvia4
+    4300198: lluvia5
+    4300200: lluvia6
+    4300202: lluvia7
+    4300204: lluvia8
+    4300206: lluvia9
+    4300208: lluvia10
+    4300210: lluvia11
+    4300212: lluvia12
+    4300214: lluvia13
+    4300216: lluvia14
+    4300218: lluvia15
+    4300220: lluvia16
+    4300222: lluvia17
+    4300224: lluvia18
+    4300226: lluvia19
+    4300228: lluvia20
+    4300230: lluvia22
+    4300232: lluvia23
+    4300234: lluvia25
+    4300236: lluvia26
+    4300238: lluvia27
+    4300240: lluvia28
+    4300242: lluvia29
+    4300244: lluvia30
+    4300246: lluvia31
+    4300248: lluvia32
+    4300250: lluvia33
+    4300252: lluvia34
+    4300254: lluvia35
+    4300256: lluvia39
+    4300258: lluvia36
+    4300260: lluvia37
+    4300262: lluvia38
+    4300264: lluvia40
+    4300266: lluvia41
+    4300268: lluvia42
+    4300270: lluvia43
+    4300272: lluvia44
+    4300274: lluvia45
+    4300276: lluvia46
+    4300278: lluvia47
+    4300280: lluvia48
+    4300282: pTorus1
+    4300284: lluvia1
+    4300286: lluvia2
+    4300288: lluvia4
+    4300290: lluvia5
+    4300292: lluvia6
+    4300294: lluvia7
+    4300296: lluvia8
+    4300298: lluvia9
+    4300300: lluvia10
+    4300302: lluvia11
+    4300304: lluvia12
+    4300306: lluvia13
+    4300308: lluvia14
+    4300310: lluvia15
+    4300312: lluvia16
+    4300314: lluvia17
+    4300316: lluvia18
+    4300318: lluvia19
+    4300320: lluvia20
+    4300322: lluvia22
+    4300324: lluvia23
+    4300326: lluvia25
+    4300328: lluvia26
+    4300330: lluvia27
+    4300332: lluvia28
+    4300334: lluvia29
+    4300336: lluvia30
+    4300338: lluvia31
+    4300340: lluvia32
+    4300342: lluvia33
+    4300344: lluvia34
+    4300346: lluvia35
+    4300348: lluvia39
+    4300350: lluvia36
+    4300352: lluvia37
+    4300354: lluvia38
+    4300356: lluvia40
+    4300358: lluvia41
+    4300360: lluvia42
+    4300362: lluvia43
+    4300364: lluvia44
+    4300366: lluvia45
+    4300368: lluvia46
+    4300370: lluvia47
+    4300372: lluvia48
+    4300374: donut:pTorus1
+    4300376: donut:lluvia1
+    4300378: donut:lluvia2
+    4300380: donut:lluvia4
+    4300382: donut:lluvia5
+    4300384: donut:lluvia6
+    4300386: donut:lluvia7
+    4300388: donut:lluvia8
+    4300390: donut:lluvia9
+    4300392: donut:lluvia10
+    4300394: donut:lluvia11
+    4300396: donut:lluvia12
+    4300398: donut:lluvia13
+    4300400: donut:lluvia14
+    4300402: donut:lluvia15
+    4300404: donut:lluvia16
+    4300406: donut:lluvia17
+    4300408: donut:lluvia18
+    4300410: donut:lluvia19
+    4300412: donut:lluvia20
+    4300414: donut:lluvia22
+    4300416: donut:lluvia23
+    4300418: donut:lluvia25
+    4300420: donut:lluvia26
+    4300422: donut:lluvia27
+    4300424: donut:lluvia28
+    4300426: donut:lluvia29
+    4300428: donut:lluvia30
+    4300430: donut:lluvia31
+    4300432: donut:lluvia32
+    4300434: donut:lluvia33
+    4300436: donut:lluvia34
+    4300438: donut:lluvia35
+    4300440: donut:lluvia39
+    4300442: donut:lluvia36
+    4300444: donut:lluvia37
+    4300446: donut:lluvia38
+    4300448: donut:lluvia40
+    4300450: donut:lluvia41
+    4300452: donut:lluvia42
+    4300454: donut:lluvia43
+    4300456: donut:lluvia44
+    4300458: donut:lluvia45
+    4300460: donut:lluvia46
+    4300462: donut:lluvia47
+    4300464: donut:lluvia48
+    4300466: palito_dona
+    4300468: palito_dona1
+    4300470: palito_dona2
+    4300472: cuchillo
+    4300474: plate:pCylinder1
+    4300476: cheeseburger:carne
+    4300478: cheeseburger:tomate1
+    4300480: cheeseburger:tomate2
+    4300482: cheeseburger:tomate3
+    4300484: cheeseburger:tomate4
+    4300486: cheeseburger:capa_abajo
+    4300488: cheeseburger:capa_arriba
+    4300490: cheeseburger:queso2
+    4300492: cheeseburger:queso
+    4300494: hielo2
+    4300496: hielo5
+    4300498: hielo3
+    4300500: hielo7
+    4300502: hielo4
+    4300504: hielo1
+    4300506: hielo4
+    4300508: hielo1
+    4300510: ice_cube:pCube1
+    4300512: hielo6
+    4300514: vaso_tunel:pPipe1
+    4300516: paleta1
+    4300518: paleta3
+    4300520: paleta2
+    4300522: pCylinder1
+    4300524: pizza
+    4300526: polySurface10
+    4300528: polySurface11
+    4300530: polySurface12
+    4300532: polySurface13
+    4300534: polySurface14
+    4300536: polySurface15
+    4300538: hotdog1
+    4300540: tenedor1
+    4300542: tenedor
+    4300544: pitillo_tunel
+    4300546: caramelo2
+    4300548: caramelo3
+    4300550: caramelo4
+    4300552: caramelo5
+    4300554: caramelo6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
