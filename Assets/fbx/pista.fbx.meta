@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 6bdc051942336944fa40630825f86d98
+timeCreated: 1481255810
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: burger
+    100002: caja
+    100004: caramelo2
+    100006: caramelo3
+    100008: caramelo4
+    100010: caramelo5
+    100012: caramelo6
+    100014: caramelos
+    100016: chair1
+    100018: chair4
+    100020: cheeseburger:capa_abajo
+    100022: cheeseburger:capa_arriba
+    100024: cheeseburger:carne
+    100026: cheeseburger:hamburguesa
+    100028: cheeseburger:pan
+    100030: cheeseburger:queso
+    100032: cheeseburger:queso2
+    100034: cheeseburger:tomate1
+    100036: cheeseburger:tomate2
+    100038: cheeseburger:tomate3
+    100040: cheeseburger:tomate4
+    100042: cheeseburger:tomates
+    100044: cuchillo
+    100046: curva_hielos
+    100048: final
+    100050: group4
+    100052: group6
+    100054: group7
+    100056: helados
+    100058: hielo1
+    100060: hielo1 1
+    100062: hielo10
+    100064: hielo2
+    100066: hielo3
+    100068: hielo4
+    100070: hielo4 1
+    100072: hielo5
+    100074: hielo6
+    100076: hielo7
+    100078: hielo8
+    100080: hielo9
+    100082: hotdog
+    100084: hotdog1
+    100086: hotdogs
+    100088: ice_cube:pCube1
+    100090: ice_cube:pCube1Particle
+    100092: inicio
+    100094: mesa
+    100096: mesa_sillas
+    100098: paleta1
+    100100: paleta2
+    100102: paleta3
+    100104: pan_pizza
+    100106: pasted__chocolate_bar
+    100108: pasted__chocolate_bar 1
+    100110: pasted__chocolate_bar_geom_set
+    100112: pasted__transform1
+    100114: pCube1Particle
+    100116: pCube1Particle 1
+    100118: pCube1Particle 10
+    100120: pCube1Particle 11
+    100122: pCube1Particle 2
+    100124: pCube1Particle 3
+    100126: pCube1Particle 4
+    100128: pCube1Particle 5
+    100130: pCube1Particle 6
+    100132: pCube1Particle 7
+    100134: pCube1Particle 8
+    100136: pCube1Particle 9
+    100138: pCube2
+    100140: //RootNode
+    100142: pista
+    100144: pitillo_tunel
+    100146: pizza
+    100148: pizza 1
+    100150: plate:pCylinder1
+    100152: plato_pizza
+    100154: polySurface10
+    100156: polySurface11
+    100158: polySurface12
+    100160: polySurface13
+    100162: polySurface14
+    100164: polySurface15
+    100166: polySurface16
+    100168: polySurface17
+    100170: polySurface18
+    100172: polySurface19
+    100174: polySurface20
+    100176: polySurface21
+    100178: polySurface22
+    100180: polySurface23
+    100182: polySurface24
+    100184: polySurface25
+    100186: polySurface27
+    100188: polySurface28
+    100190: polySurface29
+    100192: polySurface30
+    100194: polySurface31
+    100196: polySurface32
+    100198: polySurface33
+    100200: polySurface34
+    100202: polySurface35
+    100204: polySurface36
+    100206: polySurface37
+    100208: polySurface38
+    100210: polySurface39
+    100212: polySurface40
+    100214: polySurface44
+    100216: pPipe1
+    100218: pPlane1
+    100220: pPlane2
+    100222: queso
+    100224: sillas
+    100226: tableta
+    100228: tenedor
+    100230: tenedor1
+    100232: tenedor2
+    100234: tenedor3
+    100236: tenedor4
+    100238: tenedor5
+    100240: tenedor6
+    100242: tenedores_curva
+    100244: transform4
+    100246: vaso_hielo
+    100248: vaso_tunel:pPipe1
+    400000: burger
+    400002: caja
+    400004: caramelo2
+    400006: caramelo3
+    400008: caramelo4
+    400010: caramelo5
+    400012: caramelo6
+    400014: caramelos
+    400016: chair1
+    400018: chair4
+    400020: cheeseburger:capa_abajo
+    400022: cheeseburger:capa_arriba
+    400024: cheeseburger:carne
+    400026: cheeseburger:hamburguesa
+    400028: cheeseburger:pan
+    400030: cheeseburger:queso
+    400032: cheeseburger:queso2
+    400034: cheeseburger:tomate1
+    400036: cheeseburger:tomate2
+    400038: cheeseburger:tomate3
+    400040: cheeseburger:tomate4
+    400042: cheeseburger:tomates
+    400044: cuchillo
+    400046: curva_hielos
+    400048: final
+    400050: group4
+    400052: group6
+    400054: group7
+    400056: helados
+    400058: hielo1
+    400060: hielo1 1
+    400062: hielo10
+    400064: hielo2
+    400066: hielo3
+    400068: hielo4
+    400070: hielo4 1
+    400072: hielo5
+    400074: hielo6
+    400076: hielo7
+    400078: hielo8
+    400080: hielo9
+    400082: hotdog
+    400084: hotdog1
+    400086: hotdogs
+    400088: ice_cube:pCube1
+    400090: ice_cube:pCube1Particle
+    400092: inicio
+    400094: mesa
+    400096: mesa_sillas
+    400098: paleta1
+    400100: paleta2
+    400102: paleta3
+    400104: pan_pizza
+    400106: pasted__chocolate_bar
+    400108: pasted__chocolate_bar 1
+    400110: pasted__chocolate_bar_geom_set
+    400112: pasted__transform1
+    400114: pCube1Particle
+    400116: pCube1Particle 1
+    400118: pCube1Particle 10
+    400120: pCube1Particle 11
+    400122: pCube1Particle 2
+    400124: pCube1Particle 3
+    400126: pCube1Particle 4
+    400128: pCube1Particle 5
+    400130: pCube1Particle 6
+    400132: pCube1Particle 7
+    400134: pCube1Particle 8
+    400136: pCube1Particle 9
+    400138: pCube2
+    400140: //RootNode
+    400142: pista
+    400144: pitillo_tunel
+    400146: pizza
+    400148: pizza 1
+    400150: plate:pCylinder1
+    400152: plato_pizza
+    400154: polySurface10
+    400156: polySurface11
+    400158: polySurface12
+    400160: polySurface13
+    400162: polySurface14
+    400164: polySurface15
+    400166: polySurface16
+    400168: polySurface17
+    400170: polySurface18
+    400172: polySurface19
+    400174: polySurface20
+    400176: polySurface21
+    400178: polySurface22
+    400180: polySurface23
+    400182: polySurface24
+    400184: polySurface25
+    400186: polySurface27
+    400188: polySurface28
+    400190: polySurface29
+    400192: polySurface30
+    400194: polySurface31
+    400196: polySurface32
+    400198: polySurface33
+    400200: polySurface34
+    400202: polySurface35
+    400204: polySurface36
+    400206: polySurface37
+    400208: polySurface38
+    400210: polySurface39
+    400212: polySurface40
+    400214: polySurface44
+    400216: pPipe1
+    400218: pPlane1
+    400220: pPlane2
+    400222: queso
+    400224: sillas
+    400226: tableta
+    400228: tenedor
+    400230: tenedor1
+    400232: tenedor2
+    400234: tenedor3
+    400236: tenedor4
+    400238: tenedor5
+    400240: tenedor6
+    400242: tenedores_curva
+    400244: transform4
+    400246: vaso_hielo
+    400248: vaso_tunel:pPipe1
+    2300000: caramelo2
+    2300002: caramelo3
+    2300004: caramelo4
+    2300006: caramelo5
+    2300008: caramelo6
+    2300010: chair1
+    2300012: chair4
+    2300014: cheeseburger:capa_abajo
+    2300016: cheeseburger:capa_arriba
+    2300018: cheeseburger:carne
+    2300020: cheeseburger:queso
+    2300022: cheeseburger:queso2
+    2300024: cheeseburger:tomate1
+    2300026: cheeseburger:tomate2
+    2300028: cheeseburger:tomate3
+    2300030: cheeseburger:tomate4
+    2300032: cuchillo
+    2300034: hielo1
+    2300036: hielo1 1
+    2300038: hielo10
+    2300040: hielo2
+    2300042: hielo3
+    2300044: hielo4
+    2300046: hielo4 1
+    2300048: hielo5
+    2300050: hielo6
+    2300052: hielo7
+    2300054: hielo8
+    2300056: hielo9
+    2300058: ice_cube:pCube1
+    2300060: mesa
+    2300062: pan_pizza
+    2300064: pasted__transform1
+    2300066: pCube2
+    2300068: pitillo_tunel
+    2300070: plate:pCylinder1
+    2300072: plato_pizza
+    2300074: polySurface10
+    2300076: polySurface11
+    2300078: polySurface12
+    2300080: polySurface13
+    2300082: polySurface14
+    2300084: polySurface15
+    2300086: polySurface16
+    2300088: polySurface17
+    2300090: polySurface18
+    2300092: polySurface19
+    2300094: polySurface20
+    2300096: polySurface21
+    2300098: polySurface22
+    2300100: polySurface23
+    2300102: polySurface24
+    2300104: polySurface25
+    2300106: polySurface27
+    2300108: polySurface28
+    2300110: polySurface29
+    2300112: polySurface30
+    2300114: polySurface31
+    2300116: polySurface32
+    2300118: polySurface33
+    2300120: polySurface34
+    2300122: polySurface35
+    2300124: polySurface36
+    2300126: polySurface37
+    2300128: polySurface38
+    2300130: polySurface39
+    2300132: polySurface40
+    2300134: polySurface44
+    2300136: pPlane1
+    2300138: pPlane2
+    2300140: tenedor
+    2300142: tenedor1
+    2300144: tenedor2
+    2300146: tenedor3
+    2300148: tenedor4
+    2300150: tenedor5
+    2300152: tenedor6
+    3300000: caramelo2
+    3300002: caramelo3
+    3300004: caramelo4
+    3300006: caramelo5
+    3300008: caramelo6
+    3300010: chair1
+    3300012: chair4
+    3300014: cheeseburger:capa_abajo
+    3300016: cheeseburger:capa_arriba
+    3300018: cheeseburger:carne
+    3300020: cheeseburger:queso
+    3300022: cheeseburger:queso2
+    3300024: cheeseburger:tomate1
+    3300026: cheeseburger:tomate2
+    3300028: cheeseburger:tomate3
+    3300030: cheeseburger:tomate4
+    3300032: cuchillo
+    3300034: hielo1
+    3300036: hielo1 1
+    3300038: hielo10
+    3300040: hielo2
+    3300042: hielo3
+    3300044: hielo4
+    3300046: hielo4 1
+    3300048: hielo5
+    3300050: hielo6
+    3300052: hielo7
+    3300054: hielo8
+    3300056: hielo9
+    3300058: ice_cube:pCube1
+    3300060: mesa
+    3300062: pan_pizza
+    3300064: pasted__transform1
+    3300066: pCube2
+    3300068: pitillo_tunel
+    3300070: plate:pCylinder1
+    3300072: plato_pizza
+    3300074: polySurface10
+    3300076: polySurface11
+    3300078: polySurface12
+    3300080: polySurface13
+    3300082: polySurface14
+    3300084: polySurface15
+    3300086: polySurface16
+    3300088: polySurface17
+    3300090: polySurface18
+    3300092: polySurface19
+    3300094: polySurface20
+    3300096: polySurface21
+    3300098: polySurface22
+    3300100: polySurface23
+    3300102: polySurface24
+    3300104: polySurface25
+    3300106: polySurface27
+    3300108: polySurface28
+    3300110: polySurface29
+    3300112: polySurface30
+    3300114: polySurface31
+    3300116: polySurface32
+    3300118: polySurface33
+    3300120: polySurface34
+    3300122: polySurface35
+    3300124: polySurface36
+    3300126: polySurface37
+    3300128: polySurface38
+    3300130: polySurface39
+    3300132: polySurface40
+    3300134: polySurface44
+    3300136: pPlane1
+    3300138: pPlane2
+    3300140: tenedor
+    3300142: tenedor1
+    3300144: tenedor2
+    3300146: tenedor3
+    3300148: tenedor4
+    3300150: tenedor5
+    3300152: tenedor6
+    4300000: hielo2
+    4300002: hielo5
+    4300004: hielo3
+    4300006: hielo7
+    4300008: hielo4
+    4300010: hielo1
+    4300012: hielo4
+    4300014: hielo1
+    4300016: ice_cube:pCube1
+    4300018: hielo6
+    4300020: polySurface22
+    4300022: polySurface23
+    4300024: polySurface24
+    4300026: polySurface25
+    4300028: hielo8
+    4300030: hielo9
+    4300032: hielo10
+    4300034: polySurface18
+    4300036: polySurface19
+    4300038: polySurface16
+    4300040: polySurface17
+    4300042: polySurface20
+    4300044: polySurface21
+    4300046: polySurface10
+    4300048: polySurface11
+    4300050: polySurface12
+    4300052: polySurface13
+    4300054: polySurface14
+    4300056: polySurface15
+    4300058: polySurface34
+    4300060: polySurface35
+    4300062: polySurface36
+    4300064: polySurface37
+    4300066: polySurface38
+    4300068: polySurface39
+    4300070: tenedor1
+    4300072: tenedor
+    4300074: tenedor2
+    4300076: tenedor3
+    4300078: tenedor4
+    4300080: tenedor5
+    4300082: tenedor6
+    4300084: pitillo_tunel
+    4300086: pPlane1
+    4300088: polySurface44
+    4300090: pasted__transform1
+    4300092: pPlane2
+    4300094: pCube2
+    4300096: polySurface40
+    4300098: caramelo2
+    4300100: caramelo3
+    4300102: caramelo4
+    4300104: caramelo5
+    4300106: caramelo6
+    4300108: pan_pizza
+    4300110: polySurface27
+    4300112: polySurface28
+    4300114: polySurface29
+    4300116: polySurface30
+    4300118: polySurface31
+    4300120: polySurface32
+    4300122: polySurface33
+    4300124: plato_pizza
+    4300126: cheeseburger:carne
+    4300128: cheeseburger:tomate1
+    4300130: cheeseburger:tomate2
+    4300132: cheeseburger:tomate3
+    4300134: cheeseburger:tomate4
+    4300136: cheeseburger:capa_abajo
+    4300138: cheeseburger:capa_arriba
+    4300140: cheeseburger:queso2
+    4300142: cheeseburger:queso
+    4300144: plate:pCylinder1
+    4300146: cuchillo
+    4300148: mesa
+    4300150: chair1
+    4300152: chair4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

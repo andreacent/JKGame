@@ -21,7 +21,7 @@ public class FP_PlayerController : MonoBehaviour {
 
 		if (Input.GetKey ("e"))
        		direction.y = 1.0f;
-       	if (Input.GetKey ("s"))
+       	if (Input.GetKey ("x"))
        		direction.y = -1.0f;
 
        	Vector3 movement = direction * speed * Time.deltaTime;
