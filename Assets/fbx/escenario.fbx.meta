@@ -164,6 +164,35 @@ ModelImporter:
     4300052: bandera_pizza5
     4300054: bandera_pizza6
     4300056: bandera_pizza7
+    6400000: bandera
+    6400002: bandera1
+    6400004: bandera2
+    6400006: bandera3
+    6400008: bandera4
+    6400010: bandera5
+    6400012: bandera6
+    6400014: bandera7
+    6400016: bandera8
+    6400018: bandera_pizza
+    6400020: bandera_pizza1
+    6400022: bandera_pizza2
+    6400024: bandera_pizza3
+    6400026: bandera_pizza4
+    6400028: bandera_pizza5
+    6400030: bandera_pizza6
+    6400032: bandera_pizza7
+    6400034: bandera_pizza8
+    6400036: bandera_pizza9
+    6400038: cuchillo1
+    6400040: cuchillo2
+    6400042: dona10
+    6400044: dona5
+    6400046: dona7
+    6400048: dona8
+    6400050: dona9
+    6400052: palito_dona
+    6400054: palito_dona1
+    6400056: palito_dona2
     7400000: Take 001
     9500000: //RootNode
   materials:
@@ -192,7 +221,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

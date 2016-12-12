@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: a9327e7a859c71741b45ec5a10b15f4b
+timeCreated: 1481533551
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 2
+    100006: Bolt003
+    100008: Bolt003 1
+    100010: Bolt004
+    100012: Bolt004 1
+    100014: Bolt005
+    100016: Bolt005 1
+    100018: Bolt006
+    100020: Bolt006 1
+    100022: Bolt007
+    100024: Bolt007 1
+    100026: Bolt008
+    100028: Bolt008 1
+    100030: Bolt009
+    100032: Bolt009 1
+    100034: Bolt010
+    100036: Bolt010 1
+    100038: Bolt011
+    100040: Bolt011 1
+    100042: Bolt022
+    100044: Bolt022 1
+    100046: Bolt023
+    100048: Bolt023 1
+    100050: Bolt024
+    100052: Bolt024 1
+    100054: Bolt025
+    100056: Bolt025 1
+    100058: Cylinder002
+    100060: Cylinder002 1
+    100062: Cylinder005
+    100064: Cylinder005 1
+    100066: Cylinder008
+    100068: Cylinder008 1
+    100070: Cylinder015
+    100072: Cylinder015 1
+    100074: Cylinder016
+    100076: Cylinder016 1
+    100078: deskLamp:Bolt003
+    100080: deskLamp:Bolt004
+    100082: deskLamp:Bolt005
+    100084: deskLamp:Bolt006
+    100086: deskLamp:Bolt007
+    100088: deskLamp:Bolt008
+    100090: deskLamp:Bolt009
+    100092: deskLamp:Bolt010
+    100094: deskLamp:Bolt011
+    100096: deskLamp:Bolt022
+    100098: deskLamp:Bolt023
+    100100: deskLamp:Bolt024
+    100102: deskLamp:Bolt025
+    100104: deskLamp:Cylinder002
+    100106: deskLamp:Cylinder005
+    100108: deskLamp:Cylinder008
+    100110: deskLamp:Cylinder015
+    100112: deskLamp:Cylinder016
+    100114: deskLamp:megangArm
+    100116: deskLamp:Sphere001
+    100118: deskLamp:Sphere003
+    100120: deskLamp:Sphere004
+    100122: deskLamp:Sphere005
+    100124: deskLamp:Sphere006
+    100126: deskLamp:Sphere007
+    100128: deskLamp:Sphere008
+    100130: deskLamp:Sphere009
+    100132: deskLamp:Sphere010
+    100134: deskLamp:Sphere011
+    100136: deskLamp:Sphere023
+    100138: deskLamp:Sphere024
+    100140: deskLamp:Sphere025
+    100142: deskLamp:Sphere026
+    100144: lamp1
+    100146: lamp2
+    100148: lamp3
+    100150: lampara
+    100152: lampara 1
+    100154: lampara 2
+    100156: //RootNode
+    100158: luces_lamparas
+    100160: megangArm
+    100162: megangArm 1
+    100164: Sphere001
+    100166: Sphere001 1
+    100168: Sphere003
+    100170: Sphere003 1
+    100172: Sphere004
+    100174: Sphere004 1
+    100176: Sphere005
+    100178: Sphere005 1
+    100180: Sphere006
+    100182: Sphere006 1
+    100184: Sphere007
+    100186: Sphere007 1
+    100188: Sphere008
+    100190: Sphere008 1
+    100192: Sphere009
+    100194: Sphere009 1
+    100196: Sphere010
+    100198: Sphere010 1
+    100200: Sphere011
+    100202: Sphere011 1
+    100204: Sphere023
+    100206: Sphere023 1
+    100208: Sphere024
+    100210: Sphere024 1
+    100212: Sphere025
+    100214: Sphere025 1
+    100216: Sphere026
+    100218: Sphere026 1
+    100220: spotLight1
+    100222: spotLight2
+    100224: spotLight3
+    100226: tornillos
+    100228: tornillos 1
+    100230: tornillos 2
+    100232: union
+    100234: union 1
+    100236: union 2
+    400000: base
+    400002: base 1
+    400004: base 2
+    400006: Bolt003
+    400008: Bolt003 1
+    400010: Bolt004
+    400012: Bolt004 1
+    400014: Bolt005
+    400016: Bolt005 1
+    400018: Bolt006
+    400020: Bolt006 1
+    400022: Bolt007
+    400024: Bolt007 1
+    400026: Bolt008
+    400028: Bolt008 1
+    400030: Bolt009
+    400032: Bolt009 1
+    400034: Bolt010
+    400036: Bolt010 1
+    400038: Bolt011
+    400040: Bolt011 1
+    400042: Bolt022
+    400044: Bolt022 1
+    400046: Bolt023
+    400048: Bolt023 1
+    400050: Bolt024
+    400052: Bolt024 1
+    400054: Bolt025
+    400056: Bolt025 1
+    400058: Cylinder002
+    400060: Cylinder002 1
+    400062: Cylinder005
+    400064: Cylinder005 1
+    400066: Cylinder008
+    400068: Cylinder008 1
+    400070: Cylinder015
+    400072: Cylinder015 1
+    400074: Cylinder016
+    400076: Cylinder016 1
+    400078: deskLamp:Bolt003
+    400080: deskLamp:Bolt004
+    400082: deskLamp:Bolt005
+    400084: deskLamp:Bolt006
+    400086: deskLamp:Bolt007
+    400088: deskLamp:Bolt008
+    400090: deskLamp:Bolt009
+    400092: deskLamp:Bolt010
+    400094: deskLamp:Bolt011
+    400096: deskLamp:Bolt022
+    400098: deskLamp:Bolt023
+    400100: deskLamp:Bolt024
+    400102: deskLamp:Bolt025
+    400104: deskLamp:Cylinder002
+    400106: deskLamp:Cylinder005
+    400108: deskLamp:Cylinder008
+    400110: deskLamp:Cylinder015
+    400112: deskLamp:Cylinder016
+    400114: deskLamp:megangArm
+    400116: deskLamp:Sphere001
+    400118: deskLamp:Sphere003
+    400120: deskLamp:Sphere004
+    400122: deskLamp:Sphere005
+    400124: deskLamp:Sphere006
+    400126: deskLamp:Sphere007
+    400128: deskLamp:Sphere008
+    400130: deskLamp:Sphere009
+    400132: deskLamp:Sphere010
+    400134: deskLamp:Sphere011
+    400136: deskLamp:Sphere023
+    400138: deskLamp:Sphere024
+    400140: deskLamp:Sphere025
+    400142: deskLamp:Sphere026
+    400144: lamp1
+    400146: lamp2
+    400148: lamp3
+    400150: lampara
+    400152: lampara 1
+    400154: lampara 2
+    400156: //RootNode
+    400158: luces_lamparas
+    400160: megangArm
+    400162: megangArm 1
+    400164: Sphere001
+    400166: Sphere001 1
+    400168: Sphere003
+    400170: Sphere003 1
+    400172: Sphere004
+    400174: Sphere004 1
+    400176: Sphere005
+    400178: Sphere005 1
+    400180: Sphere006
+    400182: Sphere006 1
+    400184: Sphere007
+    400186: Sphere007 1
+    400188: Sphere008
+    400190: Sphere008 1
+    400192: Sphere009
+    400194: Sphere009 1
+    400196: Sphere010
+    400198: Sphere010 1
+    400200: Sphere011
+    400202: Sphere011 1
+    400204: Sphere023
+    400206: Sphere023 1
+    400208: Sphere024
+    400210: Sphere024 1
+    400212: Sphere025
+    400214: Sphere025 1
+    400216: Sphere026
+    400218: Sphere026 1
+    400220: spotLight1
+    400222: spotLight2
+    400224: spotLight3
+    400226: tornillos
+    400228: tornillos 1
+    400230: tornillos 2
+    400232: union
+    400234: union 1
+    400236: union 2
+    2300000: Bolt003
+    2300002: Bolt003 1
+    2300004: Bolt004
+    2300006: Bolt004 1
+    2300008: Bolt005
+    2300010: Bolt005 1
+    2300012: Bolt006
+    2300014: Bolt006 1
+    2300016: Bolt007
+    2300018: Bolt007 1
+    2300020: Bolt008
+    2300022: Bolt008 1
+    2300024: Bolt009
+    2300026: Bolt009 1
+    2300028: Bolt010
+    2300030: Bolt010 1
+    2300032: Bolt011
+    2300034: Bolt011 1
+    2300036: Bolt022
+    2300038: Bolt022 1
+    2300040: Bolt023
+    2300042: Bolt023 1
+    2300044: Bolt024
+    2300046: Bolt024 1
+    2300048: Bolt025
+    2300050: Bolt025 1
+    2300052: Cylinder002
+    2300054: Cylinder002 1
+    2300056: Cylinder005
+    2300058: Cylinder005 1
+    2300060: Cylinder008
+    2300062: Cylinder008 1
+    2300064: Cylinder015
+    2300066: Cylinder015 1
+    2300068: Cylinder016
+    2300070: Cylinder016 1
+    2300072: deskLamp:Bolt003
+    2300074: deskLamp:Bolt004
+    2300076: deskLamp:Bolt005
+    2300078: deskLamp:Bolt006
+    2300080: deskLamp:Bolt007
+    2300082: deskLamp:Bolt008
+    2300084: deskLamp:Bolt009
+    2300086: deskLamp:Bolt010
+    2300088: deskLamp:Bolt011
+    2300090: deskLamp:Bolt022
+    2300092: deskLamp:Bolt023
+    2300094: deskLamp:Bolt024
+    2300096: deskLamp:Bolt025
+    2300098: deskLamp:Cylinder002
+    2300100: deskLamp:Cylinder005
+    2300102: deskLamp:Cylinder008
+    2300104: deskLamp:Cylinder015
+    2300106: deskLamp:Cylinder016
+    2300108: deskLamp:megangArm
+    2300110: deskLamp:Sphere001
+    2300112: deskLamp:Sphere003
+    2300114: deskLamp:Sphere004
+    2300116: deskLamp:Sphere005
+    2300118: deskLamp:Sphere006
+    2300120: deskLamp:Sphere007
+    2300122: deskLamp:Sphere008
+    2300124: deskLamp:Sphere009
+    2300126: deskLamp:Sphere010
+    2300128: deskLamp:Sphere011
+    2300130: deskLamp:Sphere023
+    2300132: deskLamp:Sphere024
+    2300134: deskLamp:Sphere025
+    2300136: deskLamp:Sphere026
+    2300138: megangArm
+    2300140: megangArm 1
+    2300142: Sphere001
+    2300144: Sphere001 1
+    2300146: Sphere003
+    2300148: Sphere003 1
+    2300150: Sphere004
+    2300152: Sphere004 1
+    2300154: Sphere005
+    2300156: Sphere005 1
+    2300158: Sphere006
+    2300160: Sphere006 1
+    2300162: Sphere007
+    2300164: Sphere007 1
+    2300166: Sphere008
+    2300168: Sphere008 1
+    2300170: Sphere009
+    2300172: Sphere009 1
+    2300174: Sphere010
+    2300176: Sphere010 1
+    2300178: Sphere011
+    2300180: Sphere011 1
+    2300182: Sphere023
+    2300184: Sphere023 1
+    2300186: Sphere024
+    2300188: Sphere024 1
+    2300190: Sphere025
+    2300192: Sphere025 1
+    2300194: Sphere026
+    2300196: Sphere026 1
+    3300000: Bolt003
+    3300002: Bolt003 1
+    3300004: Bolt004
+    3300006: Bolt004 1
+    3300008: Bolt005
+    3300010: Bolt005 1
+    3300012: Bolt006
+    3300014: Bolt006 1
+    3300016: Bolt007
+    3300018: Bolt007 1
+    3300020: Bolt008
+    3300022: Bolt008 1
+    3300024: Bolt009
+    3300026: Bolt009 1
+    3300028: Bolt010
+    3300030: Bolt010 1
+    3300032: Bolt011
+    3300034: Bolt011 1
+    3300036: Bolt022
+    3300038: Bolt022 1
+    3300040: Bolt023
+    3300042: Bolt023 1
+    3300044: Bolt024
+    3300046: Bolt024 1
+    3300048: Bolt025
+    3300050: Bolt025 1
+    3300052: Cylinder002
+    3300054: Cylinder002 1
+    3300056: Cylinder005
+    3300058: Cylinder005 1
+    3300060: Cylinder008
+    3300062: Cylinder008 1
+    3300064: Cylinder015
+    3300066: Cylinder015 1
+    3300068: Cylinder016
+    3300070: Cylinder016 1
+    3300072: deskLamp:Bolt003
+    3300074: deskLamp:Bolt004
+    3300076: deskLamp:Bolt005
+    3300078: deskLamp:Bolt006
+    3300080: deskLamp:Bolt007
+    3300082: deskLamp:Bolt008
+    3300084: deskLamp:Bolt009
+    3300086: deskLamp:Bolt010
+    3300088: deskLamp:Bolt011
+    3300090: deskLamp:Bolt022
+    3300092: deskLamp:Bolt023
+    3300094: deskLamp:Bolt024
+    3300096: deskLamp:Bolt025
+    3300098: deskLamp:Cylinder002
+    3300100: deskLamp:Cylinder005
+    3300102: deskLamp:Cylinder008
+    3300104: deskLamp:Cylinder015
+    3300106: deskLamp:Cylinder016
+    3300108: deskLamp:megangArm
+    3300110: deskLamp:Sphere001
+    3300112: deskLamp:Sphere003
+    3300114: deskLamp:Sphere004
+    3300116: deskLamp:Sphere005
+    3300118: deskLamp:Sphere006
+    3300120: deskLamp:Sphere007
+    3300122: deskLamp:Sphere008
+    3300124: deskLamp:Sphere009
+    3300126: deskLamp:Sphere010
+    3300128: deskLamp:Sphere011
+    3300130: deskLamp:Sphere023
+    3300132: deskLamp:Sphere024
+    3300134: deskLamp:Sphere025
+    3300136: deskLamp:Sphere026
+    3300138: megangArm
+    3300140: megangArm 1
+    3300142: Sphere001
+    3300144: Sphere001 1
+    3300146: Sphere003
+    3300148: Sphere003 1
+    3300150: Sphere004
+    3300152: Sphere004 1
+    3300154: Sphere005
+    3300156: Sphere005 1
+    3300158: Sphere006
+    3300160: Sphere006 1
+    3300162: Sphere007
+    3300164: Sphere007 1
+    3300166: Sphere008
+    3300168: Sphere008 1
+    3300170: Sphere009
+    3300172: Sphere009 1
+    3300174: Sphere010
+    3300176: Sphere010 1
+    3300178: Sphere011
+    3300180: Sphere011 1
+    3300182: Sphere023
+    3300184: Sphere023 1
+    3300186: Sphere024
+    3300188: Sphere024 1
+    3300190: Sphere025
+    3300192: Sphere025 1
+    3300194: Sphere026
+    3300196: Sphere026 1
+    4300000: Cylinder005
+    4300002: Cylinder008
+    4300004: Cylinder015
+    4300006: Cylinder016
+    4300008: Bolt011
+    4300010: Sphere011
+    4300012: Bolt010
+    4300014: Sphere010
+    4300016: Bolt009
+    4300018: Sphere009
+    4300020: Bolt008
+    4300022: Sphere008
+    4300024: Bolt007
+    4300026: Sphere007
+    4300028: Bolt006
+    4300030: Sphere006
+    4300032: Bolt005
+    4300034: Sphere005
+    4300036: Bolt004
+    4300038: Sphere004
+    4300040: Bolt003
+    4300042: Sphere003
+    4300044: Cylinder002
+    4300046: Sphere001
+    4300048: Sphere023
+    4300050: Bolt022
+    4300052: Sphere024
+    4300054: Bolt023
+    4300056: Sphere025
+    4300058: Bolt024
+    4300060: Sphere026
+    4300062: Bolt025
+    4300064: megangArm
+    4300066: Cylinder005
+    4300068: Cylinder008
+    4300070: Cylinder015
+    4300072: Cylinder016
+    4300074: Bolt011
+    4300076: Sphere011
+    4300078: Bolt010
+    4300080: Sphere010
+    4300082: Bolt009
+    4300084: Sphere009
+    4300086: Bolt008
+    4300088: Sphere008
+    4300090: Bolt007
+    4300092: Sphere007
+    4300094: Bolt006
+    4300096: Sphere006
+    4300098: Bolt005
+    4300100: Sphere005
+    4300102: Bolt004
+    4300104: Sphere004
+    4300106: Bolt003
+    4300108: Sphere003
+    4300110: Cylinder002
+    4300112: Sphere001
+    4300114: Sphere023
+    4300116: Bolt022
+    4300118: Sphere024
+    4300120: Bolt023
+    4300122: Sphere025
+    4300124: Bolt024
+    4300126: Sphere026
+    4300128: Bolt025
+    4300130: megangArm
+    4300132: deskLamp:Cylinder005
+    4300134: deskLamp:Cylinder008
+    4300136: deskLamp:Cylinder015
+    4300138: deskLamp:Cylinder016
+    4300140: deskLamp:Bolt011
+    4300142: deskLamp:Sphere011
+    4300144: deskLamp:Bolt010
+    4300146: deskLamp:Sphere010
+    4300148: deskLamp:Bolt009
+    4300150: deskLamp:Sphere009
+    4300152: deskLamp:Bolt008
+    4300154: deskLamp:Sphere008
+    4300156: deskLamp:Bolt007
+    4300158: deskLamp:Sphere007
+    4300160: deskLamp:Bolt006
+    4300162: deskLamp:Sphere006
+    4300164: deskLamp:Bolt005
+    4300166: deskLamp:Sphere005
+    4300168: deskLamp:Bolt004
+    4300170: deskLamp:Sphere004
+    4300172: deskLamp:Bolt003
+    4300174: deskLamp:Sphere003
+    4300176: deskLamp:Cylinder002
+    4300178: deskLamp:Sphere001
+    4300180: deskLamp:Sphere023
+    4300182: deskLamp:Bolt022
+    4300184: deskLamp:Sphere024
+    4300186: deskLamp:Bolt023
+    4300188: deskLamp:Sphere025
+    4300190: deskLamp:Bolt024
+    4300192: deskLamp:Sphere026
+    4300194: deskLamp:Bolt025
+    4300196: deskLamp:megangArm
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
