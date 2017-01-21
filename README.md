@@ -9,8 +9,9 @@ Teclas para jugar: <br />
 *d* - Arriba. <br />
 *a* - Abaja. <br />
 
-HDR obtenido de http://www.hdrlabs.com
-
 Escenario:
 
 ![Alt text](/scene.png?raw=true "Escenario del juego")
+
+HDR de http://www.hdrlabs.com <br />
+Lámpara de escritorio de http://tf3dm.com
