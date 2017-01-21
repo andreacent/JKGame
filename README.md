@@ -10,3 +10,7 @@ Teclas para jugar: <br />
 *a* - Abaja. <br />
 
 HDR obtenido de http://www.hdrlabs.com
+
+Escenario:
+
+![Alt text](/scene.png?raw=true "Escenario del juego")
