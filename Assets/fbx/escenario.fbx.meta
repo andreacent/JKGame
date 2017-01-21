@@ -215,7 +215,107 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pista
+        weight: 1
+      - path: pista/burger
+        weight: 1
+      - path: pista/burger/banderas_burger
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera1
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera2
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera3
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera4
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera5
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera6
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera7
+        weight: 1
+      - path: pista/burger/banderas_burger/bandera8
+        weight: 1
+      - path: pista/donas
+        weight: 1
+      - path: pista/donas/cuchillo1
+        weight: 1
+      - path: pista/donas/cuchillo2
+        weight: 1
+      - path: pista/donas/dona5
+        weight: 1
+      - path: pista/donas/dona7
+        weight: 1
+      - path: pista/donas/dona8
+        weight: 1
+      - path: pista/donas/dona9
+        weight: 1
+      - path: pista/donas/dona10
+        weight: 1
+      - path: pista/donas/palito_dona
+        weight: 1
+      - path: pista/donas/palito_dona1
+        weight: 1
+      - path: pista/donas/palito_dona2
+        weight: 1
+      - path: pista/pizza
+        weight: 1
+      - path: pista/pizza/banderas_pizza
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza1
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza2
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza3
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza4
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza5
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza6
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza7
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza8
+        weight: 1
+      - path: pista/pizza/banderas_pizza/bandera_pizza9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
     isReadable: 1
   meshes:
     lODScreenPercentages: []

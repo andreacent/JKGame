@@ -19,9 +19,9 @@ public class FP_PlayerController : MonoBehaviour {
 		translation *= Time.deltaTime;
 		straffe *= Time.deltaTime;
 
-		if (Input.GetKey ("e"))
+		if (Input.GetKey ("d"))
        		direction.y = 1.0f;
-       	if (Input.GetKey ("x"))
+       	if (Input.GetKey ("a"))
        		direction.y = -1.0f;
 
        	Vector3 movement = direction * speed * Time.deltaTime;

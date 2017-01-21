@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿// Example from youtube
+// https://www.youtube.com/watch?v=blO039OzUZc&t=1161s
+
+using UnityEngine;
 using System.Collections;
 
 public class FP_CameraController : MonoBehaviour {
@@ -20,10 +23,11 @@ public class FP_CameraController : MonoBehaviour {
 		md = Vector2.Scale (md, new Vector2 (sensitivity * smoothing, sensitivity * smoothing));
 		smoothV.x = Mathf.Lerp (smoothV.x, md.x, 1f / smoothing);
 		//smoothV.y = Mathf.Lerp (smoothV.y, md.y, 1f / smoothing);
-		mouseLook.y = Mathf.Clamp (mouseLook.y, -90f, 90f);
+		mouseLook.y = Mathf.Clamp (mouseLook.y, -25f, 25f);
 		mouseLook += smoothV;
 
 		transform.localRotation = Quaternion.AngleAxis (-mouseLook.y, Vector3.right);
 		character.transform.localRotation = Quaternion.AngleAxis (mouseLook.x, character.transform.up);
+		//character.transform.localRotation = Quaternion.AngleAxis (-mouseLook.y, Vector3.right);
 	}
 }

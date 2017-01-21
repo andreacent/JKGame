@@ -585,7 +585,287 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesa_sillas
+        weight: 1
+      - path: mesa_sillas/mesa
+        weight: 1
+      - path: mesa_sillas/sillas
+        weight: 1
+      - path: mesa_sillas/sillas/chair1
+        weight: 1
+      - path: mesa_sillas/sillas/chair4
+        weight: 1
+      - path: pista
+        weight: 1
+      - path: pista/burger
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:carne
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:pan
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:pan/cheeseburger:capa_abajo
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:pan/cheeseburger:capa_arriba
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:tomates
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:tomates/cheeseburger:tomate1
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:tomates/cheeseburger:tomate2
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:tomates/cheeseburger:tomate3
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/cheeseburger:tomates/cheeseburger:tomate4
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/queso
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/queso/cheeseburger:queso
+        weight: 1
+      - path: pista/burger/cheeseburger:hamburguesa/queso/cheeseburger:queso2
+        weight: 1
+      - path: pista/burger/cuchillo
+        weight: 1
+      - path: pista/burger/plate:pCylinder1
+        weight: 1
+      - path: pista/caramelos
+        weight: 1
+      - path: pista/caramelos/caramelo2
+        weight: 1
+      - path: pista/caramelos/caramelo3
+        weight: 1
+      - path: pista/caramelos/caramelo4
+        weight: 1
+      - path: pista/caramelos/caramelo5
+        weight: 1
+      - path: pista/caramelos/caramelo6
+        weight: 1
+      - path: pista/curva_hielos
+        weight: 1
+      - path: pista/curva_hielos/group6
+        weight: 1
+      - path: pista/curva_hielos/group6/hielo1
+        weight: 1
+      - path: pista/curva_hielos/group6/hielo1/pCube1Particle 7
+        weight: 1
+      - path: pista/curva_hielos/group6/hielo4
+        weight: 1
+      - path: pista/curva_hielos/group6/hielo4/pCube1Particle 8
+        weight: 1
+      - path: pista/curva_hielos/group7
+        weight: 1
+      - path: pista/curva_hielos/group7/hielo1 1
+        weight: 1
+      - path: pista/curva_hielos/group7/hielo1 1/pCube1Particle 9
+        weight: 1
+      - path: pista/curva_hielos/group7/hielo4 1
+        weight: 1
+      - path: pista/curva_hielos/group7/hielo4 1/pCube1Particle 10
+        weight: 1
+      - path: pista/curva_hielos/hielo2
+        weight: 1
+      - path: pista/curva_hielos/hielo2/pCube1Particle 1
+        weight: 1
+      - path: pista/curva_hielos/hielo3
+        weight: 1
+      - path: pista/curva_hielos/hielo3/pCube1Particle 2
+        weight: 1
+      - path: pista/curva_hielos/hielo5
+        weight: 1
+      - path: pista/curva_hielos/hielo5/pCube1Particle 3
+        weight: 1
+      - path: pista/curva_hielos/hielo7
+        weight: 1
+      - path: pista/curva_hielos/hielo7/pCube1Particle 4
+        weight: 1
+      - path: pista/curva_hielos/hielo8
+        weight: 1
+      - path: pista/curva_hielos/hielo8/pCube1Particle 5
+        weight: 1
+      - path: pista/curva_hielos/hielo9
+        weight: 1
+      - path: pista/curva_hielos/hielo9/pCube1Particle 6
+        weight: 1
+      - path: pista/curva_hielos/hielo10
+        weight: 1
+      - path: pista/curva_hielos/hielo10/pCube1Particle
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/group4
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/group4/hielo6
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/group4/hielo6/pCube1Particle 11
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/group4/ice_cube:pCube1
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/group4/ice_cube:pCube1/ice_cube:pCube1Particle
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/pPipe1
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/pPipe1/transform4
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/vaso_tunel:pPipe1
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/vaso_tunel:pPipe1/polySurface22
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/vaso_tunel:pPipe1/polySurface23
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/vaso_tunel:pPipe1/polySurface24
+        weight: 1
+      - path: pista/curva_hielos/vaso_hielo/vaso_tunel:pPipe1/polySurface25
+        weight: 1
+      - path: pista/final
+        weight: 1
+      - path: pista/final/caja
+        weight: 1
+      - path: pista/final/caja/pCube2
+        weight: 1
+      - path: pista/final/caja/polySurface40
+        weight: 1
+      - path: pista/final/caja/pPlane2
+        weight: 1
+      - path: pista/final/tableta
+        weight: 1
+      - path: pista/final/tableta/pasted__chocolate_bar
+        weight: 1
+      - path: pista/final/tableta/pasted__chocolate_bar/pasted__chocolate_bar_geom_set
+        weight: 1
+      - path: pista/final/tableta/pasted__chocolate_bar/pasted__chocolate_bar_geom_set/pasted__chocolate_bar
+          1
+        weight: 1
+      - path: pista/final/tableta/pasted__chocolate_bar/pasted__chocolate_bar_geom_set/pasted__chocolate_bar
+          1/pasted__transform1
+        weight: 1
+      - path: pista/helados
+        weight: 1
+      - path: pista/helados/paleta1
+        weight: 1
+      - path: pista/helados/paleta1/polySurface18
+        weight: 1
+      - path: pista/helados/paleta1/polySurface19
+        weight: 1
+      - path: pista/helados/paleta2
+        weight: 1
+      - path: pista/helados/paleta2/polySurface20
+        weight: 1
+      - path: pista/helados/paleta2/polySurface21
+        weight: 1
+      - path: pista/helados/paleta3
+        weight: 1
+      - path: pista/helados/paleta3/polySurface16
+        weight: 1
+      - path: pista/helados/paleta3/polySurface17
+        weight: 1
+      - path: pista/hotdogs
+        weight: 1
+      - path: pista/hotdogs/hotdog
+        weight: 1
+      - path: pista/hotdogs/hotdog/polySurface10
+        weight: 1
+      - path: pista/hotdogs/hotdog/polySurface11
+        weight: 1
+      - path: pista/hotdogs/hotdog/polySurface12
+        weight: 1
+      - path: pista/hotdogs/hotdog/polySurface13
+        weight: 1
+      - path: pista/hotdogs/hotdog/polySurface14
+        weight: 1
+      - path: pista/hotdogs/hotdog/polySurface15
+        weight: 1
+      - path: pista/hotdogs/hotdog1
+        weight: 1
+      - path: pista/hotdogs/hotdog1/polySurface34
+        weight: 1
+      - path: pista/hotdogs/hotdog1/polySurface35
+        weight: 1
+      - path: pista/hotdogs/hotdog1/polySurface36
+        weight: 1
+      - path: pista/hotdogs/hotdog1/polySurface37
+        weight: 1
+      - path: pista/hotdogs/hotdog1/polySurface38
+        weight: 1
+      - path: pista/hotdogs/hotdog1/polySurface39
+        weight: 1
+      - path: pista/inicio
+        weight: 1
+      - path: pista/inicio/polySurface44
+        weight: 1
+      - path: pista/inicio/pPlane1
+        weight: 1
+      - path: pista/pitillo_tunel
+        weight: 1
+      - path: pista/pizza
+        weight: 1
+      - path: pista/pizza/pizza 1
+        weight: 1
+      - path: pista/pizza/pizza 1/pan_pizza
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface27
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface28
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface29
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface30
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface31
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface32
+        weight: 1
+      - path: pista/pizza/pizza 1/polySurface33
+        weight: 1
+      - path: pista/pizza/plato_pizza
+        weight: 1
+      - path: pista/tenedores_curva
+        weight: 1
+      - path: pista/tenedores_curva/tenedor
+        weight: 1
+      - path: pista/tenedores_curva/tenedor1
+        weight: 1
+      - path: pista/tenedores_curva/tenedor2
+        weight: 1
+      - path: pista/tenedores_curva/tenedor3
+        weight: 1
+      - path: pista/tenedores_curva/tenedor4
+        weight: 1
+      - path: pista/tenedores_curva/tenedor5
+        weight: 1
+      - path: pista/tenedores_curva/tenedor6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
